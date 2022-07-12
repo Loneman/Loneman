@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Yan
-I am just start to learn Java.
+I am just start to learn Python.
 I make projects just for learning and for fun.
 
 #### - Learning :
-- ✨ Java Core
-- ✨ Spring Framework
+- ✨ Python
+- ✨ Django
 - ✨ Data Structures & Algorithms
 
 #### - Hobbies : 
@@ -16,7 +16,7 @@ I make projects just for learning and for fun.
 ### Languages:
 ---
 <p align="center">
-<img src="data/java.png" alt="java">
+<img src="data/python.png" alt="python">
 <img src="data/php.png" alt="php">
 <img src="data/jquery.png" alt="jquery">
 <img src="data/js.png" alt="js">
@@ -26,8 +26,8 @@ I make projects just for learning and for fun.
 ### Tools:
 ---
 <p align="center">
-<img src="data/jetbrains_intellij.png" alt="jetbrains_intellij">
-<img src="data/visualstudio.png" alt="visualstudio">
+<img src="data/jetbrains_pycharm.png" alt="jetbrains_pycharm">
+<img src="data/jetbrains_phpstorm.png" alt="jetbrains_phpstorm">
 <img src="data/visualstudio_code.png" alt="visualstudio_code">
 <img src="data/vmware.png" alt="vmware">
 </p>
